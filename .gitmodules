@@ -1,0 +1,3 @@
+[submodule "OpenVoice"]
+	path = OpenVoice
+	url = git@github.com:0xHLiu/OpenVoice.git
