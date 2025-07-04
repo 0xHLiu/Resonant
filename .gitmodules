@@ -4,3 +4,6 @@
 [submodule "Resonant_website"]
 	path = Resonant_website
 	url = git@github.com:0xHLiu/Resonant_website.git
+[submodule "Resonant_simplemodel"]
+	path = Resonant_simplemodel
+	url = git@github.com:0xHLiu/Resonant_simplemodel.git
