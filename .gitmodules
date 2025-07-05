@@ -7,3 +7,9 @@
 [submodule "Resonant_simplemodel"]
 	path = Resonant_simplemodel
 	url = git@github.com:0xHLiu/Resonant_simplemodel.git
+[submodule "tts_models/openvoice_container"]
+	path = tts_models/openvoice_container
+	url = git@github.com:0xHLiu/openvoice_container.git
+[submodule "tts_models/openvoice_container_tts"]
+	path = tts_models/openvoice_container_tts
+	url = git@github.com:0xHLiu/openvoice_container_tts.git
