@@ -1,15 +1,24 @@
 [submodule "OpenVoice"]
-	path = OpenVoice
+	path = tts_models/OpenVoice
 	url = git@github.com:0xHLiu/OpenVoice.git
+	branch = main
 [submodule "Resonant_website"]
 	path = Resonant_website
 	url = git@github.com:0xHLiu/Resonant_website.git
+	branch = main
 [submodule "Resonant_simplemodel"]
-	path = Resonant_simplemodel
+	path = tts_models/Resonant_simplemodel
 	url = git@github.com:0xHLiu/Resonant_simplemodel.git
+	branch = main
+[submodule "Resonant_contracts"]
+	path = Resonant_contracts
+	url = git@github.com:0xHLiu/Resonant_contracts.git
+	branch = main
 [submodule "tts_models/openvoice_container"]
 	path = tts_models/openvoice_container
 	url = git@github.com:0xHLiu/openvoice_container.git
+	branch = main
 [submodule "tts_models/openvoice_container_tts"]
 	path = tts_models/openvoice_container_tts
 	url = git@github.com:0xHLiu/openvoice_container_tts.git
+	branch = main
